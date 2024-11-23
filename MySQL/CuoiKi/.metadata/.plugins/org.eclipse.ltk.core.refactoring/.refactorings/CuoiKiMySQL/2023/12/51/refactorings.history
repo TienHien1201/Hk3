@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DataAccessObjectInterface.java&apos; to &apos;UngDungQuanLiSinhVien1/src/main/java/test&apos;&#x0D;&#x0A;- Original project: &apos;CuoiKiMySQL&apos;&#x0D;&#x0A;- Destination element: &apos;UngDungQuanLiSinhVien1/src/main/java/test&apos;&#x0D;&#x0A;- Original element: &apos;DataAccessObject.DataAccessObjectInterface.java&apos;" description="Copy compilation unit" destination="=UngDungQuanLiSinhVien1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;test" element1="/src&lt;DataAccessObject{DataAccessObjectInterface.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1702390022530" units="1" version="1.0"/>
+</session>
